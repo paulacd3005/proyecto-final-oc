@@ -9,8 +9,4 @@
 
 ### Introducción
 
-
-### Codigo en Assembly
-
-
-### Conclusion 
+Para este proyecto lo que realizamos fue implementar un tipo de estructura de datos llamado Hashmap en lenguaje assembly
