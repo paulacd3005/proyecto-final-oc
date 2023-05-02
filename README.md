@@ -1,5 +1,16 @@
-# proyecto-final-oc
+# Proyecto Final 
 
-Proyecto en donde se busca implementar una estructura de datos llamada Hashmap en lenguaje assembly, MIPS
+### Integrantes:
 
-Para poder acceder a la pagina web donde se encuentra la informacion hacer click en el siguiente link: 
+- Paula Campaña Donoso: 00215572
+- Nicolas Moina: 00321192
+- Alex Perez: 00329229
+- Sebastian Navarro: 00321588
+
+### Introducción
+
+
+### Codigo en Assembly
+
+
+### Conclusion 
