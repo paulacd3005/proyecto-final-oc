@@ -9,4 +9,4 @@
 
 ### Introducción
 
-Para este proyecto lo que realizamos fue implementar un tipo de estructura de datos llamado Hashmap en lenguaje assembly
+Para este proyecto lo que realizamos fue implementar un tipo de estructura de datos llamado Hashmap en lenguaje assembly, para que pueda obtener las palabras de una lista y bloque de texto
