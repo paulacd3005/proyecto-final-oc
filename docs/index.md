@@ -17,7 +17,7 @@ Se realizarán pruebas exhaustivas para asegurar la correcta funcionalidad del H
 
 Inicialmente se realizó dos archivos .asm que contienen el código del hashmap y el código que realiza la conversion de números decimales a código ASCII, a continuación se muestra estos dos archivos. 
 
-Archivo que contiene el código del hashmap
+Archivo que contiene el código del hashmap:
 
 ```
 .data
